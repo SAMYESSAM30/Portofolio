@@ -561,7 +561,7 @@ span {
   color: #333;
 }
 /* Breakpoints */
-/* @media (max-width: 1200px) {
+@media (max-width: 1200px) {
   html {
     font-size: 55%;
   }
@@ -628,8 +628,8 @@ span {
   .footer {
     padding: 2rem 3%;
   }
-} */
-/* @media (max-width: 768px) {
+}
+@media (max-width: 768px) {
   #menu-icon {
     display: block;
   }
@@ -791,4 +791,4 @@ span {
     text-align: start;
     margin-top: 2rem;
   }
-} */
+}
