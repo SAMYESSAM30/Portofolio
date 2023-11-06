@@ -60,4 +60,3 @@ function SendMail() {
     alert("success!" + res.status);
   },)
 }
-console.log(Math.floor(5))
